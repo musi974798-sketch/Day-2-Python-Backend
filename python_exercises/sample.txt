@@ -1,0 +1,3 @@
+Hello, my name is Muhsin.
+I am learning Python Full Stack development.
+I am practicing backend development.
